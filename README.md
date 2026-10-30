@@ -14,9 +14,8 @@ This repository documents my Week 1 cybersecurity lab setup work. It is intended
 
 ## 2. Objectives
 
-- [Add the objectives assigned for Week 1.]
-- [Describe what the lab environment is intended to demonstrate.]
-- [List the skills or concepts you practiced.]
+- kali linux setup in virtual box
+- Configure and give manual ip to linux machine 10.0.0.2
 
 ## 3. Lab environment
 
@@ -28,17 +27,16 @@ This repository documents my Week 1 cybersecurity lab setup work. It is intended
 | Network configuration | Linux has IP 10.0.0.2 |
 | Tools used | [List tools and versions] |
 
-Do not publish passwords, private keys, public-facing IP addresses, personal data, or other sensitive configuration details.
-
 ## 4. Setup procedure
 
 Document the actual steps you performed. Include commands only when they are safe to share and relevant to reproducing your own authorized lab.
 
-1. **Preparation:** [Describe prerequisites and downloads.]
-2. **Installation:** [Describe the software or virtual machines installed.]
-3. **Configuration:** [Describe the lab configuration at a safe, high level.]
-4. **Validation:** [Explain how you confirmed the lab was working.]
-5. **Evidence:** [Link the relevant screenshots in the Screenshots section.]
+1. **Preparation:** download and install kali linux and virtual box
+2. 
+3. **Installation:** [Describe the software or virtual machines installed.]
+4. **Configuration:** [Describe the lab configuration at a safe, high level.]
+5. **Validation:** [Explain how you confirmed the lab was working.]
+6. **Evidence:** [Link the relevant screenshots in the Screenshots section.]
 
 ## 5. Screenshots and evidence
 
